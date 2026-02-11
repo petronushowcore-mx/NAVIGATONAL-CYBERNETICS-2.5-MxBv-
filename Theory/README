@@ -1,1 +1,33 @@
+# Theory — Axiomatic and Structural Closure Layer
 
+This domain contains the formal theoretical consolidation of Navigational Cybernetics 2.5.
+
+While Ontology defines structural primitives, and Architecture develops operational mechanisms, the Theory layer establishes formal closure through axioms, structural invariants, and derived theorems.
+
+The document contained here does not introduce a product, implementation, or applied system.
+
+It defines the structural class through formal articulation.
+
+Specifically, this layer:
+
+- Fixes drift as the primary medium of adaptive existence.
+- Formalizes directionality as a structural operator.
+- Establishes admissibility as prior to optimization.
+- Defines coherence and regime constraints as architectural invariants.
+- Articulates the limits of equilibrium-centric frameworks.
+- Introduces the axiomatic boundary of long-horizon adaptive systems.
+
+The Theory layer functions as structural consolidation.
+
+It does not prescribe implementation details.
+It does not expose algorithmic realization.
+It does not provide optimization procedures.
+
+It defines what must be true for a system to belong to the architectural class.
+
+Any compatible architecture must satisfy the invariants articulated here, regardless of implementation strategy.
+
+---
+
+Navigational Cybernetics 2.5  
+Drift is primary. Equilibrium is derivative.
