@@ -1,41 +1,60 @@
-# NAVIGATONAL CYBERNETICS 2.5 (MxBv) — Core Corpus
+# Navigational Cybernetics 2.5 — Core Corpus
 
 This repository contains the canonical structural corpus defining the architectural class referred to as Cybernetics of Order 2.5.
 
-The material collected here establishes ontological primitives, structural axioms, admissibility constraints, and long-horizon viability theorems governing adaptive systems operating under irreversible drift.
+The materials collected here establish ontological primitives, structural axioms, admissibility constraints, and long-horizon viability conditions for adaptive systems operating under irreversible drift.
 
-This repository does not describe a product, implementation, or proprietary system.
+This repository does not describe a product, implementation, or engineering manual.
 
-It defines a structural architectural class.
+It defines an architectural classification framework.
 
-## Architectural Position
+---
 
-The framework is built on the following non-negotiable principles:
+## Architectural Scope
 
-- Drift is a navigable structural medium, not an error.
-- Admissibility is structurally prior to action, optimization, and control.
-- Long-horizon viability cannot be reduced to reward or performance metrics.
-- Identity continuity is a structural property independent of local correctness.
+The framework concerns adaptive systems that:
+
+- operate under non-zero structural drift,
+- accumulate irreversible internal history,
+- admit regime-level transitions with long-horizon consequences,
+- require authorization of irreversible commitments.
+
+Systems that treat admissibility as a soft constraint, penalty, reward term, or optimization objective are classified outside this architectural class.
+
+---
+
+## Structural Position
+
+Within this framework:
+
+- Drift is not an error term.
+- Admissibility is structurally prior to action selection.
+- Long-horizon viability is not reducible to local performance.
+- Identity continuity cannot be inferred from correctness.
 - Admissibility-relevant structure must not become causally actionable.
 
-Systems violating these constraints are classified outside the Cybernetics 2.5 architectural class.
+These are class-defining constraints, not design preferences.
 
-## Repository Structure
+---
 
-- `01_ONTOLOGY` — Structural primitives defining the architectural class.
-- `02_PHILOSOPHY` — Ontological and justificatory texts.
-- `03_ARCHITECTURE` — Formal axioms, theorems, admissibility mechanisms, regime operators, internal-time constraints.
-- `90_ARCHIVE` — Transitional or non-canonical material.
+## Repository Domains
 
-## Relationship to Implementations
+- `ONTOLOGY` — Structural primitives and class boundaries.
+- `PHILOSOPHY VIEW` — Ontological justification and interpretive texts.
+- `ARCHITECTURE` — Formal axioms, theorems, admissibility mechanisms, and structural operators.
+- `ARCHIVE` — Transitional or non-canonical material.
 
-Concrete architectures (including PETRONUS™ and others) may claim compatibility with this framework.
+---
 
-No implementation is derived or prescribed here.
+## Implementation Neutrality
 
-Multiple non-equivalent realizations may satisfy the same structural constraints.
+Concrete systems may claim compatibility with this framework.
+
+No specific implementation is prescribed here.
+
+Multiple non-equivalent architectures may satisfy the same structural constraints.
 
 ---
 
 Navigational Cybernetics 2.5  
-Drift as Medium. Admissibility as Boundary. Survival as Structural Condition.
+Architectural classification for long-horizon adaptive systems.
