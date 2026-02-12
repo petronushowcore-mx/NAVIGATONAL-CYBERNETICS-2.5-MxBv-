@@ -60,3 +60,8 @@ Multiple non-equivalent architectures may satisfy the same structural constraint
 
 Navigational Cybernetics 2.5  
 Architectural classification for long-horizon adaptive systems.
+
+## License
+
+Unless otherwise stated within a document, materials in this repository are licensed under CC BY-NC 4.0.
+See the LICENSE file for details.
