@@ -39,10 +39,12 @@ These are class-defining constraints, not design preferences.
 
 ## Repository Domains
 
-- `ONTOLOGY` — Structural primitives and class boundaries.
-- `PHILOSOPHY VIEW` — Ontological justification and interpretive texts.
-- `ARCHITECTURE` — Formal axioms, theorems, admissibility mechanisms, and structural operators.
-- `ARCHIVE` — Transitional or non-canonical material.
+- `INDEX` — Canonical registry of documents and structural mapping.
+- `ONTOLOGY` — Structural primitives defining the architectural class (drift, directionality, admissibility, coherence, regime).
+- `PHILOSOPHY` — Interpretive and justificatory texts articulating ontological consequences and experiential implications.
+- `THEORY` — Formal axioms, structural theorems, class boundaries, and non-reducibility results.
+- `ARCHITECTURE` — Operational mechanisms, admissibility operators, regime regulators, structural controllers, and implementation-neutral system layers.
+- `ARCHIVE` — Transitional, superseded, or non-canonical material preserved for traceability.
 
 ---
 
